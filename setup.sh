@@ -27,6 +27,6 @@ arch=`uname`
 			fi
 		fi
 
-chmod +x angelwings.sh
+chmod +x angelphish.sh
 clear
-./angelwings.sh
+./angelphish.sh
